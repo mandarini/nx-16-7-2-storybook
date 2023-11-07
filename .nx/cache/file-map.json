@@ -147,6 +147,15 @@
       {
         "file": "libs/hello/src/lib/one/one.component.css",
         "hash": "3244421341483603138"
+      },
+      {
+        "file": "libs/hello/src/lib/one/one.component.stories.ts",
+        "hash": "15088408839835503163",
+        "deps": [
+          "npm:@storybook/angular",
+          "npm:@storybook/testing-library",
+          "npm:@storybook/jest"
+        ]
       }
     ],
     "web": [

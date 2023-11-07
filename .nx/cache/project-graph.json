@@ -16558,6 +16558,16 @@
         "source": "hello",
         "target": "npm:jest-preset-angular",
         "type": "static"
+      },
+      {
+        "source": "hello",
+        "target": "npm:@storybook/testing-library",
+        "type": "static"
+      },
+      {
+        "source": "hello",
+        "target": "npm:@storybook/jest",
+        "type": "static"
       }
     ],
     "web": [
